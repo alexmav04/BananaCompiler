@@ -1,5 +1,6 @@
 # Ignore VSCode settings folder
 .vscode/
 
-# Ignore build folder
+# Ignore build artifact
 build/
+*.exe
